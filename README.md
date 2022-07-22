@@ -3,6 +3,7 @@
 ## Quick Note
 
 ==This application does not work now due to limited access to the school database server. If you want to try it out on your machine, you must have access to another valid server with DB2 database==
+
 Please fill in the following information from line `24-27` in `GoBabbyApp.java` in order to run the code. Make sure the server you entered do have a valid DB2 database running.
 
 ```java
