@@ -22,8 +22,8 @@ public class GoBabbyApp {
 
         // connect to database
         String url = "jdbc:db2://winter2022-comp421.cs.mcgill.ca:50000/cs421";
-        String your_userid = "rdeng4";
-        String your_password = "dd991218";
+        String your_userid = "";
+        String your_password = "";
         Connection con = null;
         boolean hasConnection = true;
         if(your_userid.equals("") || your_password.equals("")) {
