@@ -22,6 +22,6 @@ String your_password = "<your_password>";
 
 ## What did I do?
 
-- Design and draw ER diagram from plain text requirements. Since it is a class project, I will not post the actual requirements here.
-- Construct some tables to store the relations and entities in ER diagram with DB2 database system.
-- Implement a light-weight, command-line program that retrieves information from the database.
+- First,I design and draw ER diagram from plain text requirements. Since it is a class project, I will not post the actual requirements here.
+- Then, I construct some tables with SQL to store the relations and entities in ER diagram with DB2 database system. (see `create-load-drop_tables_code` for details)
+- Lastly, I implement a light-weight, command-line program that retrieves information from the database.
