@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6d9e0445-e03b-4e08-91dc-19dc694f3fff" name="comp421" url="http://winter2022-comp421.cs.mcgill.ca">
+        <fileTransfer rootFolder="/home/2020/rdeng4" accessType="SFTP" host="winter2022-comp421.cs.mcgill.ca" port="22" sshConfigId="0de19640-72fb-4cb1-9078-881c555fbd38" sshConfig="rdeng4@winter2022-comp421.cs.mcgill.ca:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
